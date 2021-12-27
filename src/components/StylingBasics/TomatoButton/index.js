@@ -1,0 +1,1 @@
+export { TomatoButton } from "./styled";
